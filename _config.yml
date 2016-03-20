@@ -1,28 +1,40 @@
-name: hans andresen chocolates
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.54513
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: hans andresen chocolates
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#431903'
-    - '#b5a9a1'
-    - '#897068'
-    - '#5f4f41'
-  brandStrength: 1
-  lightness: 0.625
-  saturation: 0.5
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5
+  brandStrength: 1
+  lightness: 0.8924731
+  brandColors:
+    - '#FFFFFF'
+    - '#431803'
+    - '#5A4A42'
+    - '#89665B'
+    - '#9B8F86'
+  rhythmicContrast: 0.5
+typography_spectrum: 0.54513
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
