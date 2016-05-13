@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[hans andresen chocolates]]></title>
+        <description><![CDATA[hans andresen chocolates]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 13 May 2016 14:20:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Moais de Chocolate]]></title>
+            <description><![CDATA[<article><h1>Moais de Chocolate</h1><p>Pintados a mano</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c04f0876a0b07e3a300bb8e93fbae2398d0a33dc.jpg"></article>]]></description>
+            <link>undefinedmoais-de-chocolate/index.html</link>
+            <guid isPermaLink="false">ca356ca4-fd58-4c2a-b53a-a71d6b03caa9</guid>
+            <pubDate>Fri, 13 May 2016 14:20:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
